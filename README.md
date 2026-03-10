@@ -22,7 +22,7 @@ ai-deal-origination-agent/
 ├── dashboard.png
 ```
 
-Then the README will display it.
+
 
 ![Dashboard](dashboard.png)
 
