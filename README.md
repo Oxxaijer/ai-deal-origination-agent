@@ -14,7 +14,7 @@ This project simulates how venture capital and private equity firms **discover a
 
 # Dashboard Preview
 
-Add a screenshot of your dashboard here.
+
 
 ```
 ai-deal-origination-agent/
