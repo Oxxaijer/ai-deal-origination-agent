@@ -4,7 +4,7 @@
 ![Framework](https://img.shields.io/badge/Framework-Streamlit-red)
 ![AI](https://img.shields.io/badge/AI-OpenAI-green)
 ![Database](https://img.shields.io/badge/Database-SQLite-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 An **AI-powered investment intelligence platform** that scans global news, extracts companies, detects funding signals, scores potential investment opportunities, and generates alerts.
 
